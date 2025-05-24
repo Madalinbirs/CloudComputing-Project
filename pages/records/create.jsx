@@ -18,7 +18,7 @@ const Create = () => {
       alert("Failed to create record");
     }
   }
-
+  
   return (
       <RecordForm data={entry} onSubmit={onSubmit} />
   );
