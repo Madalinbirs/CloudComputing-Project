@@ -63,7 +63,7 @@ Această pagină simulează profilul real al unui candidat, util în procesul de
 
 ---
 
-## 🖼 CE FACE APLICAȚIA (BEFORE SCREENSHOTS)
+## CE FACE APLICAȚIA 
 
 **Pagina principală** – Afișează toți candidații, permite interacțiuni CRUD, căutare și sortare rapidă.
 
