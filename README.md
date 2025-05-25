@@ -78,6 +78,8 @@ Această pagină simulează profilul real al unui candidat, util în procesul de
 ![image](https://github.com/user-attachments/assets/dec70922-b9dc-4a43-8627-89e534b83570)
 ![image](https://github.com/user-attachments/assets/ad6f3501-ad9f-4c22-9714-fb2f24b1886b)
 
+•	Demo Video YouTube:  https://www.youtube.com/watch?v=ny0qbuIfmn0
+
 
 ##  CONCLUZIE
 
